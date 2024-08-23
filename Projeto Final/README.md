@@ -21,7 +21,7 @@ Foi realizada a análise de todo o dataset para verificar se o mesmo estava em c
 
 #### Estrutura da CNN
 
-![Estrutura da CNN](images/cnn_estrutura.png)
+![Estrutura da CNN](images/unet_estrutura.png)
 
 #### Gráfico de perda e acurácia
 
