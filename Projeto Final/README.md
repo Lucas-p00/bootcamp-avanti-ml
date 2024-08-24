@@ -17,9 +17,9 @@ Foi realizada a análise de todo o dataset para verificar se o mesmo estava em c
 #### Imagens do dataset
 ![Grafico](imagens/img_&_mask_1.png)
 
-## Implementação da CNN
+## U-Net
 
-#### Estrutura da CNN
+#### Estrutura da rede
 
 ![Estrutura da CNN](imagens/unet_estrutura.png)
 
