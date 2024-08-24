@@ -15,20 +15,32 @@ Foi realizada a análise de todo o dataset para verificar se o mesmo estava em c
 - Detecção de duplicatas: Foi realizada uma busca minuciosa por duplicatas que pudessem interferir no desempenho do modelo.
 
 #### Imagens do dataset
-![Grafico](images/img_&_mask_1.png)
+![Grafico](imagens/img_&_mask_1.png)
 
 ## Implementação da CNN
 
 #### Estrutura da CNN
 
-![Estrutura da CNN](images/unet_estrutura.png)
+![Estrutura da CNN](imagens/unet_estrutura.png)
 
 #### Gráfico de perda e acurácia
 
-![Grafico](images/grafico.png)
+![Grafico](imagens/grafico.png)
 
-### Resultados
+## Resultados
 
+#### Testes com modelo para validação
 
+![Resultado](Resultados_Finais/Modelo_com_validação/1.png)
+![Resultado](Resultados_Finais/Modelo_com_validação/2.png)
+![Resultado](Resultados_Finais/Modelo_com_validação/3.png)
+![Resultado](Resultados_Finais/Modelo_com_validação/4.png)
+![Resultado](Resultados_Finais/Modelo_com_validação/5.png)
 
+#### Testes
 
+![Resultado](Resultados_Finais/Testes/1.png)
+![Resultado](Resultados_Finais/Testes/2.png)
+![Resultado](Resultados_Finais/Testes/3.png)
+![Resultado](Resultados_Finais/Testes/4.png)
+![Resultado](Resultados_Finais/Testes/5.png)
