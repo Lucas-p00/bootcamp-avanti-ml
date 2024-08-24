@@ -31,16 +31,16 @@ Foi realizada a análise de todo o dataset para verificar se o mesmo estava em c
 
 #### Testes com modelo para validação
 
-![Resultado](resultados_finais/Modelo_com_validação/1.png)
-![Resultado](resultados_finais/Modelo_com_validação/2.png)
-![Resultado](resultados_finais/Modelo_com_validação/3.png)
-![Resultado](resultados_finais/Modelo_com_validação/4.png)
-![Resultado](resultados_finais/Modelo_com_validação/5.png)
+![Resultado](Resultados_Finais/Modelo_com_validação/1.png)
+![Resultado](Resultados_Finais/Modelo_com_validação/2.png)
+![Resultado](Resultados_Finais/Modelo_com_validação/3.png)
+![Resultado](Resultados_Finais/Modelo_com_validação/4.png)
+![Resultado](Resultados_Finais/Modelo_com_validação/5.png)
 
 #### Testes
 
-![Resultado](resultados_finais/Testes/1.png)
-![Resultado](resultados_finais/Testes/2.png)
-![Resultado](resultados_finais/Testes/3.png)
-![Resultado](resultados_finais/Testes/4.png)
-![Resultado](resultados_finais/Testes/5.png)
+![Resultado](Resultados_Finais/Testes/1.png)
+![Resultado](Resultados_Finais/Testes/2.png)
+![Resultado](Resultados_Finais/Testes/3.png)
+![Resultado](Resultados_Finais/Testes/4.png)
+![Resultado](Resultados_Finais/Testes/5.png)
